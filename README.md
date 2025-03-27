@@ -35,7 +35,7 @@ git clone https://github.com/estefaniii/rick-morty-explorer.git
 ```bash
 npm install
 ```
-4. Launch the multiverse:
+3. Launch the multiverse:
 ```bash
 npm run dev
 ```
